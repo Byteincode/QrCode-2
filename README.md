@@ -1,1 +1,2 @@
-# QrCode-2
+# QrCode-2  <br/>
+Link - https://byteincode.github.io/QrCode-2/
